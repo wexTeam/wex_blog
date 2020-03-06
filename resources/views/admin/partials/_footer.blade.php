@@ -1,0 +1,1 @@
+<footer class="footer text-center">{{ date('Y') }} &copy; @isset($setting['copy_right']){{ $setting['copy_right'] }}@endisset </footer>
